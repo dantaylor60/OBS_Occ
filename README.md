@@ -1,7 +1,7 @@
 # OBS_Occ
 Objective Bayesian Variable Selection for Occupancy Models
 
-This code in R enables users to perform the Bayesian variable selection algorithm introduced in:
+This code in R enables users to implement the Bayesian variable selection algorithm introduced in:
 
 Taylor-Rodríguez, Daniel; Womack, Andrew J.; Fuentes, Claudio; Bliznyuk, Nikolay Intrinsic Bayesian analysis for 
 occupancy models. Bayesian Anal. 12 (2017), no. 3, 855–877.
